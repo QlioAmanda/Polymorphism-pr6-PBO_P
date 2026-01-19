@@ -45,7 +45,7 @@ Kode dalam proyek ini menggunakan struktur **Package** (`package studi_kasus1`, 
 | **Kasus 3b** | `Strings` | *(sudah ter-compile di atas)* | `java studi_kasus3.Strings` |
 | **Kasus 3c** | `WeeklySales`| *(sudah ter-compile di atas)* | `java studi_kasus3.WeeklySales` |
 
-> **Catatan:** Jika kamu menjalankan `java Firm` dari dalam folder `studi_kasus1`, program akan **ERROR**. Pastikan run dari luar folder paket dengan format `java namapaket.NamaKelas`.
+> **Catatan:** Jika ingin menjalankan `java Firm` dari dalam folder `studi_kasus1`, program akan **ERROR**. Pastikan run dari luar folder paket dengan format `java namapaket.NamaKelas`.
 
 ---
 
